@@ -2,7 +2,8 @@
 </b>
 
 
-Dupe ce procedura de instalare a luat sfarsit, executa in terminal **viplug** pentru a deschide fisierul de pluginuri, iar apoi instaleaza toate pluginurile prin comanda: <b>:PlugInstall</b>
+Dupe ce procedura de instalare a luat sfarsit:
+**source ~/.bashrc && viplug** pentru a deschide fisierul de pluginuri, iar apoi instaleaza toate pluginurile prin comanda: <b>:PlugInstall</b>
 
 **************************
 
