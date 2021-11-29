@@ -1,0 +1,9 @@
+[user]
+	name = spinuvlad
+	email = spinu.vlad@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+[credential]
+        helper = cache
+
